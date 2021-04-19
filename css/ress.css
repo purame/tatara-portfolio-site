@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+  word-break: normal;
+  -moz-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-text-size-adjust: 100%; 
+}
+
+*,
+::before,
+::after {
+  box-sizing: inherit;
+  background-repeat: no-repeat; 
+}
+
+::before,
+::after {
+  vertical-align: inherit;
+  text-decoration: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0; 
+}
+
+img {
+  border-style: none; 
+}
